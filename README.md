@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I don't google while coding**
 
+  ![Snake animation](https://github.com/yashc9602/yashc9602/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yash9602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yash9602" height="30" width="40" /></a>
